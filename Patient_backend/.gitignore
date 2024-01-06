@@ -9,6 +9,7 @@ env/
 
 # Ignore local settings file
 local_settings.py
+credentials.json
 
 # Ignore staticfiles directory (if managed separately)
 /staticfiles/
@@ -29,3 +30,4 @@ local_settings.py
 # Ignore IDE-specific files
 .idea/
 .vscode/
+
