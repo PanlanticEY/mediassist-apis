@@ -13,7 +13,7 @@ firebase_admin.initialize_app(cred,{"databaseURL": "https://haalo-27946-default-
 final_messages = ""
 connection_Id=''
 connectionValue=''
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 # Create your views here.
 
 

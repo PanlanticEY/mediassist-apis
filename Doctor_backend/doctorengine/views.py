@@ -11,8 +11,8 @@ from openai import OpenAI
 cred = credentials.Certificate("credentials.json")
 #firebase_admin.initialize_app(cred,{"databaseURL": "https://haalo-27946-default-rtdb.firebaseio.com"})
 final_messages = ""
-connection_Id='SUxSMTBFNlFIS0xO'
-client = OpenAI(api_key="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")
+connection_Id=''
+client = OpenAI(api_key="")
 # Create your views here.
 
 
