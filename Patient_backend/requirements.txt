@@ -1,0 +1,4 @@
+Django==5.0.1
+symbl==2.0.0
+firebase-admin==6.3.0
+openai==1.6.1
